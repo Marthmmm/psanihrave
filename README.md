@@ -41,6 +41,6 @@
 ![Screenshot (1059)](https://github.com/user-attachments/assets/fd7d0e97-8fc3-4da3-a0e2-4ad6e5883208)
 
 
-4. Tesne pred spustenim staci zmacknout [, pro spusteni] --- [. pro konec]
+4. Tesne pred spustenim staci zmacknout [carku , pro spusteni] --- [tecku . pro konec]
 (jedna hra trva cca
 
