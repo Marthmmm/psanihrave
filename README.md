@@ -9,7 +9,7 @@
 ![Screenshot (1062)](https://github.com/user-attachments/assets/57f2da8d-d1ff-43fd-b551-defa371254be)
 
 
-4. Stahnout skript
+2. Stahnout skript
 
 
 ![Screenshot (1051)](https://github.com/user-attachments/assets/b5f6e976-30d8-430f-8e1c-97169c8baf01)
@@ -21,7 +21,7 @@
 ![Screenshot (1054)](https://github.com/user-attachments/assets/954a3605-ea4f-491d-bb5f-d8d214b4295a)
 
 
-6. Nastavitelny kolo
+3. Nastavitelny kolo
 
    
 ![Screenshot (1055)](https://github.com/user-attachments/assets/97efe716-074b-4aa8-be3f-7225254af804)
@@ -41,6 +41,6 @@
 ![Screenshot (1059)](https://github.com/user-attachments/assets/fd7d0e97-8fc3-4da3-a0e2-4ad6e5883208)
 
 
-8. Tesne pred spustenim staci zmacknout [, pro spusteni] --- [. pro konec]
+4. Tesne pred spustenim staci zmacknout [, pro spusteni] --- [. pro konec]
 (jedna hra trva cca
 
